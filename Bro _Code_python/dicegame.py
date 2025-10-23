@@ -56,3 +56,7 @@ for i in range (num_of_dice):              #here we can acess list items one by 
 for k in dice :
     total += k
 print(f"total = {total}")
+
+# #this is how can we acess diff dices separately
+# for i in dices.get(5):
+#     print(i)
